@@ -3,7 +3,7 @@
  * I will not copy or allow others to copy my code.
  * I understand that copying code is considered as plagiarism.
  *
- * 20034695, May 26, 2022 11:29:48 AM
+ * 20034695, May 26, 2022 3:13:50 PM
  */
 
 /**
@@ -11,7 +11,6 @@
  *
  */
 public class Calculator {
-	
 	public int add(int a, int b) {
 		return a+b;
 		
